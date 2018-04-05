@@ -10,7 +10,7 @@ A collection of resources that I would like to go over in order to learn better 
 - [Best Practices](#best-practices)
 - [Tools](#tools)
 - [Challenges](#challenges)
-- [Monotize](#monotize)
+- [Monetize](#monetize)
 - [Other](#other)
 
 ## How to use it
@@ -30,7 +30,7 @@ A collection of resources that I would like to go over in order to learn better 
 - [ ] [Capture The Ether Game](https://capturetheether.com)
 - [ ] [Ethernaut](https://ethernaut.zeppelin.solutions/)
 
-## Monotize
+## Monetize
 - [ ] [Gitcoin](https://gitcoin.co/)
 
 ## Other
